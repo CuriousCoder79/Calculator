@@ -1,0 +1,9 @@
+C:\Users\cbeckett.LAN\Desktop\Project Exchange Calculator\ExchangeCalculator3.0\ExchangeCalculator3.0\bin\Debug\ExchangeCalculator3.0.exe.config
+C:\Users\cbeckett.LAN\Desktop\Project Exchange Calculator\ExchangeCalculator3.0\ExchangeCalculator3.0\bin\Debug\ExchangeCalculator3.0.exe
+C:\Users\cbeckett.LAN\Desktop\Project Exchange Calculator\ExchangeCalculator3.0\ExchangeCalculator3.0\bin\Debug\ExchangeCalculator3.0.pdb
+C:\Users\cbeckett.LAN\Desktop\Project Exchange Calculator\ExchangeCalculator3.0\ExchangeCalculator3.0\obj\Debug\ExchangeCalculator3.0.csprojResolveAssemblyReference.cache
+C:\Users\cbeckett.LAN\Desktop\Project Exchange Calculator\ExchangeCalculator3.0\ExchangeCalculator3.0\obj\Debug\ExchangeCalculator3._0.Form1.resources
+C:\Users\cbeckett.LAN\Desktop\Project Exchange Calculator\ExchangeCalculator3.0\ExchangeCalculator3.0\obj\Debug\ExchangeCalculator3._0.Properties.Resources.resources
+C:\Users\cbeckett.LAN\Desktop\Project Exchange Calculator\ExchangeCalculator3.0\ExchangeCalculator3.0\obj\Debug\ExchangeCalculator3.0.csproj.GenerateResource.Cache
+C:\Users\cbeckett.LAN\Desktop\Project Exchange Calculator\ExchangeCalculator3.0\ExchangeCalculator3.0\obj\Debug\ExchangeCalculator3.0.exe
+C:\Users\cbeckett.LAN\Desktop\Project Exchange Calculator\ExchangeCalculator3.0\ExchangeCalculator3.0\obj\Debug\ExchangeCalculator3.0.pdb
